@@ -1,0 +1,23 @@
+{
+  "name": "a-blog-about-cats",
+  "version": "1.0.0",
+  "description": "Vanilla Js blog site",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DestevenOj/A-blog-about-cats.git"
+  },
+  "author": "Stephen Ochieng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DestevenOj/A-blog-about-cats/issues"
+  },
+  "homepage": "https://github.com/DestevenOj/A-blog-about-cats#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0"
+  }
+}
